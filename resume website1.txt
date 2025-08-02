@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>G Vamsi Sajjan - Resume</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 40px;
+      background-color: #f4f4f4;
+      color: #333;
+    }
+    .container {
+      background-color: #fff;
+      padding: 30px;
+      max-width: 800px;
+      margin: auto;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+      border-radius: 10px;
+      position: relative;
+    }
+    .profile-pic {
+      position: absolute;
+      top: 30px;
+      right: 30px;
+      width: 100px;
+      height: 100px;
+      border-radius: 50%;
+      object-fit: cover;
+      border: 2px solid #ccc;
+    }
+    h1, h2, h3 {
+      color: #2c3e50;
+    }
+    h1 {
+      font-size: 28px;
+      margin-bottom: 5px;
+    }
+    h2 {
+      font-size: 22px;
+      border-bottom: 2px solid #ccc;
+      padding-bottom: 5px;
+      margin-top: 30px;
+    }
+    p, li {
+      line-height: 1.6;
+    }
+    ul {
+      padding-left: 20px;
+    }
+    .contact {
+      font-size: 14px;
+      margin-bottom: 20px;
+    }
+    .contact a {
+      text-decoration: none;
+      color: #2980b9;
+    }
+    .declaration {
+      font-style: italic;
+      margin-top: 20px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <!-- Add your image file in the same folder and change src="profile.jpg" if needed -->
+    <img src="D:\photos" alt="Vamsi Sajjan" class=""D:\photos\1000000284.jpg"">
+
+    <h1>G Vamsi Sajjan</h1>
+    <p class="contact">
+      Email: <a href="mailto:vamsisajjan@gmail.com">vamsisajjan@gmail.com</a> |
+      Phone: +91 6304073680 |
+      <a href="https://www.linkedin.com/in/vamsi-sajjan/" target="_blank">LinkedIn</a>
+    </p>
+
+    <h2>Objective</h2>
+    <p>To continue my career with an organization and seek a position to utilize my abilities, supervision, and administrative skills to benefit mutual growth and success.</p>
+
+    <h2>Education</h2>
+    <ul>
+      <li><strong>G Pulla Reddy Engineering College, Kurnool</strong><br>
+        B.Tech in Computer Science and Engineering | CGPA: 7.22/10 | 2020 - 2024</li>
+      <li><strong>Sri Chaitanya Junior College, Kurnool</strong><br>
+        Intermediate (MPC) | CGPA: 7.98/10 | 2018 - 2020</li>
+      <li><strong>Jyothi High School, Kurnool</strong><br>
+        SSC | GPA: 9.3/10 | 2018</li>
+    </ul>
+
+    <h2>Internships</h2>
+    <ul>
+      <li><strong>Salesforce Virtual Internship</strong> | June 2023<br>
+        Hands-on training, projects, live bootcamps, and expert mentoring sessions.</li>
+      <li><strong>Slashmark Full Stack Internship</strong> | April 2024<br>
+        Developed interfaces using HTML, CSS, JavaScript and added interactivity.</li>
+    </ul>
+
+    <h2>Projects</h2>
+    <ul>
+      <li><strong>Full Stack Vehicle Rental Website</strong> | April 2024<br>
+        Built using HTML, CSS, JavaScript (ReactJS), and Node.js.</li>
+      <li><strong>Weather Forecast Website</strong><br>
+        Web app to display current and future weather using API integration.</li>
+    </ul>
+
+    <h2>Experience</h2>
+    <p><strong>Software Test Engineer | Voxvalley Technologies Pvt Ltd – Hyderabad</strong><br>
+    June 2024 – June 2025</p>
+    <ul>
+      <li>Tested Android, iOS, and web applications.</li>
+      <li>Performed manual testing: functional, regression, UI/UX testing.</li>
+      <li>Worked on CPaaS features: SMS templates, encoding, sender ID validation.</li>
+      <li>Validated eSIM settings, account settings, call flows (app-to-app, PSTN).</li>
+      <li>Collaborated with developers and product teams for bug-free releases.</li>
+    </ul>
+
+    <h2>Summary</h2>
+    <p>Dedicated Software Tester with 1 year of hands-on experience in manual testing of web and mobile applications. Skilled in test case creation, bug reporting, and working in Agile environments.</p>
+
+    <h2>Skills</h2>
+    <ul>
+      <li><strong>Testing Tools:</strong> Postman</li>
+      <li><strong>Platforms:</strong> Android, iOS, Web</li>
+      <li><strong>Techniques:</strong> Functional Testing, Regression Testing, API Testing</li>
+      <li><strong>Languages/Frameworks:</strong> Basic Selenium, TestNG</li>
+      <li><strong>Technical Skills:</strong> C, Java, Python, HTML, CSS, Software Testing</li>
+    </ul>
+
+    <h2>Certifications</h2>
+    <ul>
+      <li>Robotics Virtual Internship Completion</li>
+      <li>Java Training Completion</li>
+      <li>Introduction to Java Programming – Coursera</li>
+      <li>Business English Speaking – Infosys Springboard</li>
+      <li>Typewriting (English Lower and Higher)</li>
+    </ul>
+
+    <h2>Declaration</h2>
+    <p class="declaration">I hereby declare that the above furnished information is true to the best of my knowledge, and I hold the liability for the correctness of the above-mentioned particulars if any.</p>
+  </div>
+</body>
+</html>
